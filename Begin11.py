@@ -1,0 +1,5 @@
+a = float(input("введите первое ненулевое число "))
+b = float(input("введите второе ненулевое число "))
+mod_a=abs(a)
+mod_b=abs(b)
+print(mod_a+mod_b, mod_a-mod_b,mod_a*mod_b,mod_a/mod_b)
